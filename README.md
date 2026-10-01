@@ -244,4 +244,4 @@ This repository serves as the official landing page for Paint.NET. The software 
 **Get the most recent version of Paint.NET today!**
 
 ---
-**Last updated:** 2026-09-30 23:27:10 UTC
+**Last updated:** 2026-10-01 04:07:09 UTC
